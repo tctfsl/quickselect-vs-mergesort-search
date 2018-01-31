@@ -29,3 +29,10 @@ See the branches for progress
 - tested up to 1 billion integers.
 - take note, the size of file may go up to Gigabytes!
 - additionally, text editor can't open .txt file that is too big.
+
+### 02/01/0236-faisal
+- reworked the mergeSort().
+- user can now choose to either set the input automatically (from a .txt file) or manually (enter inputer individually).
+- future work: add a third option to randomly generate 20 integers for the input as part of assignment requirements.
+- will show the kth element and the time taken to do so.
+- future work: check the datatype of all variables that hold number, there could be variables with imprecise numerical datatype.
