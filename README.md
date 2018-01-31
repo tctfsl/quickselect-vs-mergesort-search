@@ -1,10 +1,10 @@
 # quickselect-vs-mergesort-search
-An assignment to compare the time complexity between quick-select and merge-sort algorithm to search for k-th element.
+An assignment to compare the time taken between quick-select and merge-sort algorithm to search for k-th element.
 
 See the branches for progress
 
-Branch:
-# 02/01-0214-faisal
+# Branch/Progress:
+## 02/01-0214-faisal
 - generates a large set of random positive integers, though the integers are not unique.
 - outputs the integers into a .txt file.
 - tested up to 1 billion integers.
