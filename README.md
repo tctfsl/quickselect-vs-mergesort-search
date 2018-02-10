@@ -55,3 +55,7 @@ See the branches for progress
 - Can choose between fixed pivot and random pivot
 - If size of array is more than 20 it won't print out the array.
 - swap() is a function now not utility.
+
+### 02/10-1717
+- almost-finalised quickSelect and mergeSort.
+- there's still room for code cleanup though.
