@@ -69,7 +69,7 @@ See the branches for progress
   - [x] generate 20 random integers as the input.
   - [x] generate random k.
   - [x] implement both fixed and random pivot selection in quickSelect.
-  - [ ] generate input ranging from 10,000 to 100,000,000.
-  - [ ] text the algorithm with the generated inputs.
+  - [x] generate input ranging from 10,000 to 100,000,000 (this is the maximum limit).
+  - [ ] test the algorithm with the generated inputs.
   - [ ] generate input for all cases (best, average, worst) for both algorithms.
   - [ ] document experiment findings.
