@@ -60,7 +60,7 @@ See the branches for progress
 - almost-finalised quickSelect and mergeSort.
 - there's still room for code cleanup though.
 
-###02/10-1828
+### 02/10-1828
 - added the code to generate random number (which will output to input.txt).
 - more code cleanup for both algorithms.
 - Assignment requirements list:
