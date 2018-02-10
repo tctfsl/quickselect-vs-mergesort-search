@@ -49,3 +49,9 @@ See the branches for progress
 - the input is now either automatically set (to any number) or 20 randomly generated numbers.
 - kth element is randomly set.
 - minor cleanup on what is displayed into the console.
+
+### 02/10-1619-Shahzaad
+- Target kth element is now random
+- Can choose between fixed pivot and random pivot
+- If size of array is more than 20 it won't print out the array.
+- swap() is a function now not utility.
