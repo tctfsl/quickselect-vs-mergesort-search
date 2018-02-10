@@ -59,3 +59,17 @@ See the branches for progress
 ### 02/10-1717
 - almost-finalised quickSelect and mergeSort.
 - there's still room for code cleanup though.
+
+###02/10-1828
+- added the code to generate random number (which will output to input.txt).
+- more code cleanup for both algorithms.
+- Assignment requirements list:
+  - [x] implement a QuickSelect algorithm to find the kth element.
+  - [x] implement a mergeSort algorithm to find the kth element.
+  - [x] generate 20 random integers as the input.
+  - [x] generate random k.
+  - [x] implement both fixed and random pivot selection in quickSelect.
+  - [ ] generate input ranging from 10,000 to 100,000,000.
+  - [ ] text the algorithm with the generated inputs.
+  - [ ] generate input for all cases (best, average, worst) for both algorithms.
+  - [ ] document experiment findings.
