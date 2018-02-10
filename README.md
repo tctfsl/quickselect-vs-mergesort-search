@@ -45,3 +45,7 @@ See the branches for progress
 - use random generator
 - printInfo() will print out pivot  as arr[pivot] as oppose to arr[lastIndex] previously.
 
+### 02/10-1615-faisal
+- the input is now either automatically set (to any number) or 20 randomly generated numbers.
+- kth element is randomly set.
+- minor cleanup on what is displayed into the console.
