@@ -39,3 +39,9 @@ See the branches for progress
 
 ### 02/08-1450-faisal
 - code cleanup on quickSelect.cpp based on Shahzaad's latest branch.
+
+### 02/10-1441-Shahzaad
+- Added random pivot.
+- use random generator
+- printInfo() will print out pivot  as arr[pivot] as oppose to arr[lastIndex] previously.
+
